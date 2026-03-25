@@ -27,6 +27,8 @@ print(f"d: {d}")
 ```
 
 ## Output
-<img width="961" height="312" alt="image" src="https://github.com/user-attachments/assets/79ce2f9c-14c7-4d3e-b7ed-4e374a1f5a53" />
+<img width="858" height="220" alt="image" src="https://github.com/user-attachments/assets/8f5051ea-5781-47fb-8a9b-2edefd8db2b4" />
+
 
 ## Result
+Thus, to write a python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is compiled and the output is verified successfully.
